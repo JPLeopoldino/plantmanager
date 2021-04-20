@@ -8,7 +8,7 @@
 #### Projeto: Plant Manager 🌼
 
 - [x] ~~**Aula 01**~~
-- [ ] **Aula 02**
+- [x] ~~**Aula 02**~~
 - [ ] **Aula 03**
 - [ ] **Aula 04**
 - [ ] **Aula 05**
@@ -28,8 +28,8 @@
 
 | Aula        | Desafio         | 
 | ----------- | --------------- |
-|01           |`#missaoespacial`|
-|02           |                 |
+|01           |`Concluído`      |
+|02           |`Concluído`      |
 |03           |                 |
 |04           |                 |
 |05           |                 |
