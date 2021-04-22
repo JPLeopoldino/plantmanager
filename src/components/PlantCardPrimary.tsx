@@ -21,6 +21,7 @@ export const PlantCardPrimary = ({ data, ...rest } : PlantProps) => {
     return(
         <RectButton
             style={styles.container}
+            {...rest}
         >
             <SvgFromUri 
                 uri={data.photo} 
