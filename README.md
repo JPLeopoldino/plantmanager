@@ -12,7 +12,6 @@
 - [x] ~~**Aula 03**~~
 - [x] ~~**Aula 04**~~
 - [x] ~~**Aula 05**~~
-- [ ] **Encerramento**
 
 ---
 
@@ -32,4 +31,4 @@
 |02           |`Concluído`      |
 |03           |`Concluído`      |
 |04           |`Concluído`      |
-|05           |                 |
+|05           |`Concluído`      |
